@@ -39,6 +39,7 @@ cd rainfall-prediction
 3. Open and run the Jupyter Notebook Rainfall_Prediction.ipynb to execute the code step-by-step.
 
 4. Follow the instructions and comments in the notebook for data preprocessing, visualization, model training, and evaluation.
+5. Demo video link : https://drive.google.com/file/d/16ltglULXTzxKKxr6-fW3y29cL7WYSH0X/view?usp=sharing
 
 ## Results
 The project aims to achieve accurate rainfall predictions using machine learning models. The evaluation metrics such as accuracy, precision, recall, and F1-score will be used to assess the performance of the models.
